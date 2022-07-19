@@ -1,0 +1,28 @@
+
+ul.nav{
+    list-style: none;
+    float: left;
+    background-color: rgb(13, 21, 21);
+    width:100%;
+  }
+  
+  ul.nav li {
+    float:left;
+    margin-right: 20px;
+    padding: 20px;
+    background-color:rgb(13, 21, 21);
+  }
+  
+  ul.nav li a {
+    color:#E7E7E7;
+    text-decoration: none;
+    padding: 20px;
+  }
+  
+  ul.nav li a:hover {
+    background-color: #E7E7E7;
+    transition: 1s;
+    color: rgb(13, 21, 21);
+  }
+
+  
